@@ -6,6 +6,6 @@ First performed by Thomas Young in 1801, the double-slit experiment is one of th
 
 This simulator models the resulting interference pattern by combining double-slit interference with the single-slit diffraction envelope. Users can investigate how the pattern changes by varying the wavelength of light, slit separation, screen distance, and slit width through both manual input and interactive sliders.
 
-## Preview
-
-![Double Slit Simulator](images/simulator_output.png)
+<p align="center">
+  <img src="images/simulator_output.png" width="800">
+</p>
