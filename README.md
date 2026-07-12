@@ -1,4 +1,4 @@
-#Young’s Double Slit Interference Simulator
+##Young’s Double Slit Interference Simulator
 Simulator for Young’s Double Slit Experiment developed in Python.
 
 First performed by Thomas Young in 1801, the double-slit experiment is one of the most influential experiments in physics. It demonstrated the wave nature of light through the formation of interference fringes and later became central to the development of quantum mechanics, where it revealed the remarkable wave-particle duality of light and matter.
