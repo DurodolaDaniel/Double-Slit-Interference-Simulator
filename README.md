@@ -1,4 +1,4 @@
-Young’s Double Slit Interference Simulator
+# Young’s Double Slit Interference Simulator
 
 Simulator for Young’s Double Slit Experiment developed in Python.
 
