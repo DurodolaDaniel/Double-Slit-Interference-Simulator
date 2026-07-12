@@ -1,1 +1,3 @@
-# Double-Slit-Interference-Simulator
+# Double-Slit-Interference-SimulatorAn interactive simulation of Young’s Double Slit Experiment developed in Python using NumPy and Matplotlib.
+
+Young’s experiment is one of the most significant demonstrations of wave optics, showing how coherent light passing through two narrow slits produces an interference pattern. This simulator allows users to investigate how the interference pattern changes by adjusting the wavelength, slit separation, screen distance, and slit width in real time through both manual input and interactive sliders.
